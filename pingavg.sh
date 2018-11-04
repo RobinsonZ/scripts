@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 # pings Google DNS and writes a moving average to stdout, constantly replacing it with the magic of \r.
 
